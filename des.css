@@ -1,0 +1,45 @@
+*{
+/* https://i.makeagif.com/media/5-06-2016/9vrpXe.gif */
+  background-image: url(https://64.media.tumblr.com/e8052aa7ed30b7472b24dca9a04d6401/tumblr_oj0btsxSJF1rldv4go1_1280.gifv);
+  /*https://wallpaperaccess.com/full/1092593.png*/  /* blue  /*
+  /*https://safebooru.org//images/2707/d7d73bb4ba90e830a002f6852e4a1f2baf73eafc.gif*/
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%100%;
+}
+.wel{
+text-align: center;
+font-size: 130px;
+margin: 300px;
+color: white;
+font-weight: bold;
+}
+.abdu{
+  font-weight: bold;
+  font-size: 60px;
+}
+ul{
+display: inline-flex;
+  float: right;
+}
+a{
+  text-decoration: none;
+color:white;
+}
+a:hover{
+text-decoration: underline;
+color:MediumBlue;
+}
+li{
+margin-top: -230px;
+padding-right: 20px;
+  font-size: 20px;
+
+}
+.under{
+float: inherit;
+
+}
+.headindex{
+
+}

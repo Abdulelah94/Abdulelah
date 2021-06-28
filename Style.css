@@ -1,0 +1,99 @@
+
+#website_header{
+color : white;
+text-align: center;
+font-size: 60px;
+font-family: serif;
+padding: 29px;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kh62JQNzdMMxLCmFxYkfIW5K5i8na_nFZREggZbwF1mSGCBoUe-Sz7tbOqsCFy9xUtU&usqp=CAU);
+background-position:center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: 100%100%;
+
+}
+.header{
+  font-size: 20px;
+  text-align-last: center;
+margin-top: -19px;
+}
+.hobbies{
+text-align: center;
+color:  #b71540;
+font-weight: bold;
+}
+
+li{
+  display: inline-block;
+  padding-right: 20px;
+
+}
+.header{
+display: inline-flex;
+float:right;
+}
+.hobbies2{
+display: inline-flex;
+
+}
+a{
+  /*text-decoration: none;*/
+  text-decoration: none;
+color: red;
+}
+a:hover{
+  text-decoration: underline;
+  color: blue;
+}
+
+#photoup{
+  background-image: url(https://i.pinimg.com/originals/80/25/3b/80253b9712bea9be2008baa4c9a34201.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%100%;
+}
+.test{
+
+  font-size: 30px;
+  color: black;
+
+padding-bottom: 15px;
+
+/* https://i.pinimg.com/originals/01/ca/5e/01ca5ec396be5314e2d8d485cda5b389.jpg */
+
+background-image: url(https://image.freepik.com/free-vector/white-wallpaper-theme-3d-paper-style_23-2148408787.jpg);
+background-position: top;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%100%;
+}
+#div2{
+font-size: 40px;
+color: darkred;
+text-align: center;
+font-weight: lighter;
+}
+.contact_me{
+font-size: 19px;
+font-weight: bold;
+background-repeat: no-repeat;
+ background-attachment: fixed;
+background-size: 100%100%;
+width: 100;
+font-size: 50px;
+font-weight: lighter;
+background-attachment: fixed;
+
+}
+.right{
+text-align: center;
+
+margin-bottom: -10px;
+}
+.textTop{
+  text-align: center;
+  margin-top: -168px;
+}
+.MyInfo{
+padding: 70px;
+}
